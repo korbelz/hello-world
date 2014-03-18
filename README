@@ -2,3 +2,16 @@ Hello world!
 
 I'm using this repo to learn to use github! So much fun.
 -Tyler
+
+v1 16 Mar
+- Basic hello world
+
+v2 17 Mar
+- added more words
+
+v3 18 Mar
+- added user input now Hello, [your name]
+
+Programmed in: VIM
+
+compiled with: gcc
